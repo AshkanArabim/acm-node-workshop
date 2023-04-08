@@ -1,0 +1,27 @@
+{
+  "name": "acm-node-workshop",
+  "version": "1.0.0",
+  "description": "A very basic multiple choice quiz site running on Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshkanArabim/acm-node-workshop.git"
+  },
+  "author": "AshkanArabim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshkanArabim/acm-node-workshop/issues"
+  },
+  "homepage": "https://github.com/AshkanArabim/acm-node-workshop#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

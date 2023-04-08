@@ -1,0 +1,16 @@
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  max-width: 700px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
